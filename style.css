@@ -1,0 +1,41 @@
+h1 {
+   text-align: center;
+}
+
+section {
+   width: 400px;
+   background-color: blue; 
+   border-radius: 10px 10px 10px 10px;
+   margin: auto;
+   
+}
+
+div {
+   margin: 0;
+}
+
+#p1 {
+   padding: 7px;
+}
+
+#slnum {
+   margin-left: 5px;
+   width: 100px;
+}
+
+#tnum {
+   width: 100px;
+   border-radius: 2px 2px 2px 2px;
+}
+
+#end {
+   margin-top: 7px;
+   margin-left: 5px;
+   margin-bottom: 2px;
+   border-radius: 2px 2px 2px 2px;
+   border: 0;
+}
+
+#res {
+   margin-left: 5px;
+}
